@@ -31,7 +31,7 @@ This assignment involved web scraping data from the Mars News website and analyz
 
 ```python
 id | terrestrial_date | sol | ls | month | min_temp | pressure
-
+```
 # Stack Overflow Articles:
 # https://stackoverflow.com/questions/55192919/nonetype-object-is-not-callable-in-beautiful-soup-4
 # https://stackoverflow.com/questions/23136157/browsing-parsing-html-pages-in-python/23136306#23136306
